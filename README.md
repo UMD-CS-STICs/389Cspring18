@@ -1,4 +1,4 @@
-# CMSC389_: Cryptocurrency: The Intersection of Technology and the Economy
+# CMSC389C: Cryptocurrency: The Intersection of Technology and the Economy
 ## Prerequisites: C- or better in CMSC250 and CMSC216
 ## Credits: 1
 

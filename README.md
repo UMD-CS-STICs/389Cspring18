@@ -49,17 +49,17 @@ will be considered afterwards.
 | ----|----|----- |
 | 1 (1/26) | Syllabus week + Intro to Bitcoin | |
 | 2 (2/2) | Blockchain Structure | Quiz 1, Codelab 1 OUT |
-| 3 (2/9) | Proof-of-Work | Quiz 2 |
-| 4 (2/16) | Bitcoin Mining and Faucets | Codelab 1 DUE |
-| 5 (2/23) | Wallets and Anonymity | Quiz 3, Codelab 2 OUT |
+| 3 (2/9) | Proof-of-Work and Mining | Quiz 2 |
+| 4 (2/16) | Wallets and Transactions | Codelab 1 DUE |
+| 5 (2/23) | Anonymity | Quiz 3, Codelab 2 OUT |
 | 6 (3/2) | Politics and Regulation | Codelab 2 DUE |
-| 7 (3/9) | Cryptocurrency Market | Quiz 4 |
+| 7 (3/9) | Cryptocurrency Market and ICOs | Quiz 4 |
 | 8 (3/16) | MIDTERM | |
 | 9 (3/23) | SPRING BREAK | |
 | 10 (3/30) | Bitcoin as Platform | Quiz 5 |
 | 11 (4/6) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 6, Codelab 3 OUT |
 | 12 (4/13) | Ethereum Contracts & Ethereum as a Platform | Quiz 7 |
-| 13 (4/20) | ICO (Initial Coin Offerings) | Codelab 3 DUE |
+| 13 (4/20) | Ethereum Contracts (cont'd) | Codelab 3 DUE |
 | 14 (4/27) | FINAL | |
 
 ## Codelabs

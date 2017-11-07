@@ -69,7 +69,7 @@ only be used for emergencies and not class related questions (e.g., homework).
 
 Instructor:
 
-Dr. Dave Levin - dml@cs.umd.edu
+Dr. Jonathan Katz - jkatz@cs.umd.edu
 
 TA(s):
 

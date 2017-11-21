@@ -4,6 +4,10 @@ For any questions or concerns about the course, please contact Cameron Payton (c
 ## Prerequisites: C- or better in CMSC250 and CMSC216
 ## Credits: 1
 
+## Time and Location
+Fridays, 2:00-2:50 PM
+CSIC 3118
+
 ## Course Description
 This course provides a comprehensive, practical introduction to the technology behind cryptocurrency and the economy surrounding it. This course will have a heavy emphasis on Bitcoin, but will touch on other types of cryptocurrency as well. This course is primarily intended to focus on the technological aspect of cryptocurrency, but we will also spend time discussing the economics of cryptocurrency.
 

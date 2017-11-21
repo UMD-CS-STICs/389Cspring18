@@ -5,7 +5,7 @@ For any questions or concerns about the course, please contact Cameron Payton (c
 ## Credits: 1
 
 ## Time and Location
-Fridays, 2:00-2:50 PM
+Fridays, 2:00-2:50 PM  
 CSIC 3118
 
 ## Course Description

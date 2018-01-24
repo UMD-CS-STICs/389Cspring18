@@ -1,4 +1,4 @@
-For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or Neil Johnson (nj13127@gmail.com).
+For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or Neil Johnson (njohn@umd.edu).
 
 # CMSC389C: Bitcoin and Other Cryptocurrencies
 ## Prerequisites: C- or better in CMSC250 and CMSC216

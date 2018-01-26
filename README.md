@@ -12,10 +12,10 @@ CSIC 3118
 This course provides a comprehensive, practical introduction to the technology behind cryptocurrency and the economy surrounding it. This course will have a heavy emphasis on Bitcoin, but will touch on other types of cryptocurrency as well. This course is primarily intended to focus on the technological aspect of cryptocurrency, but we will also spend time discussing the economics of cryptocurrency.
 
 ## Textbooks
-Required: None
+Required:
+- [_Bitcoin Whitepaper_](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 
 Recommended: 
-- [_Bitcoin Whitepaper_](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 - [_Mastering Bitcoin (2nd Edition)_](https://www.amazon.com/_/dp/1491954388?tag=oreilly20-20) by Andreas Antonopoulos
 
 ## Topics Covered

@@ -1,17 +1,21 @@
-For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or Neil Johnson (nj13127@gmail.com).
+For any questions or concerns about the course, please contact Cameron Payton (cpayton@umd.edu) and/or Neil Johnson (njohn@umd.edu).
 
 # CMSC389C: Bitcoin and Other Cryptocurrencies
 ## Prerequisites: C- or better in CMSC250 and CMSC216
 ## Credits: 1
 
+## Time and Location
+Fridays, 2:00-2:50 PM  
+CSIC 3118
+
 ## Course Description
 This course provides a comprehensive, practical introduction to the technology behind cryptocurrency and the economy surrounding it. This course will have a heavy emphasis on Bitcoin, but will touch on other types of cryptocurrency as well. This course is primarily intended to focus on the technological aspect of cryptocurrency, but we will also spend time discussing the economics of cryptocurrency.
 
 ## Textbooks
-Required: None
+Required:
+- [_Bitcoin Whitepaper_](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 
 Recommended: 
-- [_Bitcoin Whitepaper_](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 - [_Mastering Bitcoin (2nd Edition)_](https://www.amazon.com/_/dp/1491954388?tag=oreilly20-20) by Andreas Antonopoulos
 
 ## Topics Covered

@@ -1,4 +1,4 @@
-# Codelab 1: Building Blocks
+# Project 1: Building Blocks
  
 ## Due Date
 

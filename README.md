@@ -80,10 +80,10 @@ Dr. Jonathan Katz - jkatz@cs.umd.edu
 TA(s):
 
 Cameron Payton - cpayton@umd.edu
-- Office Hours: TBD
+- Office Hours: Tuesdays, 2:00 - 3:00 PM in Startup Shell (387 Technology Dr.)
 
 Neil Johnson - njohn@umd.edu
-- Office Hours: TBD
+- Office Hours: Tuesdays, 2:00 - 3:00 PM in Startup Shell (387 Technology Dr.)
 
 ## Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.

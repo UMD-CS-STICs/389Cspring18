@@ -2,17 +2,17 @@
  
 ## Due Date
 
-This codelab is due on *Friday, February 16th at 11:59:59PM*. The late deadline is *Monday, February 19th at 11:59:59PM* for 15% penalty.
+This project is due on *Friday, February 16th at 11:59:59PM*. The late deadline is *Monday, February 19th at 11:59:59PM* for 15% penalty.
 
 ## Goal
 
-In this codelab, you'll get to build simplified blocks that would go on bitcoin's blockchain.
+In this project, you'll get to build simplified blocks that would go on bitcoin's blockchain.
 - You'll get to create merkle trees from a list of transactions
 - You'll have to find the proper nonce for a block
 
 ## Setting Up
 
-Before starting this codelab, run `git pull` in the `389Cspring18` directory to update your local copy of the class repository. This will pull in the Block.java and PublicTests.java files, as well as the external JARs you need for the hashing and testing libraries.  
+Before starting this project, run `git pull` in the `389Cspring18` directory to update your local copy of the class repository. This will pull in the Block.java and PublicTests.java files, as well as the external JARs you need for the hashing and testing libraries.  
 
 If you have not already cloned the class repository, run `git clone https://github.com/UMD-CS-STICs/389Cspring18.git`. This will automatically pull in the most up-to-date files.
 
@@ -21,7 +21,7 @@ If you have not already cloned the class repository, run `git clone https://gith
 1. Open Eclipse
 2. Click File -> Import...
 3. Under General, select "Projects from Folder or Archive", then click next.
-4. Click Directory, then navigate to and select the "codelab_1" folder and open it. Then click Finish.
+4. Click Directory, then navigate to and select the "project_1" folder and open it. Then click Finish.
 5. Next, you must select all 3 jar files in the project's "lib" folder. Right click them while selected, choose -> "Build Path" -> "Add to Build Path".
 6. Your project should be set up correctly at this point. Make sure the public tests will run (and fail), and happy coding!
 

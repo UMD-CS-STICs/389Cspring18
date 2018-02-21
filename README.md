@@ -52,22 +52,22 @@ will be considered afterwards.
 | Week | Topic | Assignment |
 | ----|----|----- |
 | 1 (1/26) | Syllabus week + Intro to Bitcoin | |
-| 2 (2/2) | Blockchain Structure | Quiz 1, Codelab 1 OUT |
+| 2 (2/2) | Blockchain Structure | Quiz 1, Project 1 OUT |
 | 3 (2/9) | Proof-of-Work and Mining | Quiz 2 |
-| 4 (2/16) | Wallets and Transactions | Codelab 1 DUE |
-| 5 (2/23) | Anonymity | Quiz 3, Codelab 2 OUT |
-| 6 (3/2) | Politics and Regulation | Codelab 2 DUE |
-| 7 (3/9) | Cryptocurrency Market and ICOs | Quiz 4 |
+| 4 (2/16) | Wallets and Transactions | Project 1 DUE |
+| 5 (2/23) | Anonymity | Quiz 3, Project 2 OUT |
+| 6 (3/2) | Politics and Regulation | Quiz 4 |
+| 7 (3/9) | Cryptocurrency Market and ICOs | Quiz 5, Project 2 DUE |
 | 8 (3/16) | MIDTERM | |
 | 9 (3/23) | SPRING BREAK | |
-| 10 (3/30) | Bitcoin as Platform | Quiz 5 |
-| 11 (4/6) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 6, Codelab 3 OUT |
-| 12 (4/13) | Ethereum Contracts & Ethereum as a Platform | Quiz 7 |
+| 10 (3/30) | Bitcoin as Platform | Quiz 6 |
+| 11 (4/6) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 7, Codelab 3 OUT |
+| 12 (4/13) | Ethereum Contracts & Ethereum as a Platform | Quiz 8 |
 | 13 (4/20) | Ethereum Contracts (cont'd) | Codelab 3 DUE |
 | 14 (4/27) | FINAL | |
 
-## Codelabs
-The codelabs are meant to get you familiar with the low-level implementation of the technology that goes into cryptocurrency. Codelabs will focus on simplified implementations of core concepts, such as the blockchain, wallets and transactions, and contracts. Although most of the Bitcoin core is written in C++, the codelabs will mostly be implemented in Java or Python for simplicity.
+## Projects
+The projects are meant to get you familiar with the low-level implementation of the technology that goes into cryptocurrency. Projects will focus on simplified implementations of core concepts, such as the blockchain, wallets and transactions, and contracts. Although most of the Bitcoin core is written in C++, the projects will mostly be implemented in Java for simplicity.
 
 ## Outside-of-class communication with course staff
 We will interact with students outside of class in primarily two ways: in-person during office hours and piazza. Email should

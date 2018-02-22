@@ -1,0 +1,3 @@
+# Wallets and Transactions
+
+This week we covered wallets & transactions on the Bitcoin network. As always, the slides are in this folder as well as [here](https://docs.google.com/presentation/d/1zvFOJ3VoS7gA6nRwT_v_w8sMgZOv5xmBsT8dd3quxNc/edit?usp=sharing). We highly recommend reviewing these slides again at some point this week, because project 2 will be out next week, which consists of verifying arrays of transactions as if you were a node on the network. The project will be similar in format to the last project, where you all will get a code skeleton with several methods you must implement, as well as the public tests so you can ensure your code works. The project will be in Java again.

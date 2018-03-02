@@ -56,14 +56,14 @@ will be considered afterwards.
 | 3 (2/9) | Proof-of-Work and Mining | Quiz 2 |
 | 4 (2/16) | Wallets and Transactions | Project 1 DUE |
 | 5 (2/23) | Anonymity | Quiz 3, Project 2 OUT |
-| 6 (3/2) | Politics and Regulation | Quiz 4 |
-| 7 (3/9) | Cryptocurrency Market and ICOs | Quiz 5, Project 2 DUE |
+| 6 (3/2) | CLASS CANCELLED | |
+| 7 (3/9) | Politics and Regulation | Quiz 4, Project 2 DUE |
 | 8 (3/16) | MIDTERM | |
 | 9 (3/23) | SPRING BREAK | |
-| 10 (3/30) | Bitcoin as Platform | Quiz 6 |
-| 11 (4/6) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 7, Codelab 3 OUT |
-| 12 (4/13) | Ethereum Contracts & Ethereum as a Platform | Quiz 8 |
-| 13 (4/20) | Ethereum Contracts (cont'd) | Codelab 3 DUE |
+| 10 (3/30) | Cryptocurrency Market and ICOs | Quiz 5 |
+| 11 (4/6) | Altcoins (focus on Ethereum) and Proof-of-Stake | Quiz 6, Codelab 3 OUT |
+| 12 (4/13) | Ethereum Contracts & Ethereum as a Platform | Quiz 7 |
+| 13 (4/20) | Ethereum Contracts (cont'd) | Quiz 8, Codelab 3 DUE |
 | 14 (4/27) | FINAL | |
 
 ## Projects

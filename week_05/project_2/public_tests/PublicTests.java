@@ -37,13 +37,16 @@ public class PublicTests {
 		for (Transaction tx: txsValidation.allElements()) {
 			assertEquals(txHandler.isValidTx(tx), txsValidation.isValid(tx) );
 		}
+		assertEquals(txHandler.handleTxs(txsValidation.allElements().toArray(
+				new Transaction[txsValidation.allElements().size()])).length,
+				txsValidation.nonConflictingTransactions());
 	}
 
 	// Test 1: test isValidTx() with valid transactions
 	@Test
 	public void testIsValidWithValidTransactions()
 			throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing		
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)
@@ -57,11 +60,11 @@ public class PublicTests {
 		// check against student solution
 		assertTestSetIsValid(utxoTestSet);
 	}
-	
+
 	// Test 2: test isValidTx() with transactions containing signatures of incorrect data
 	@Test
 	public void testIsValidWithInvalidSignatures() throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing				
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)
@@ -76,11 +79,11 @@ public class PublicTests {
 		// check against student solution
 		assertTestSetIsValid(utxoTestSet);
 	}
-	
+
 	// Test 3: test isValidTx() with transactions containing signatures using incorrect private keys
 	@Test
 	public void testIsValidSignaturesWithInvalidPrivateKeys() throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing				
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)
@@ -99,7 +102,7 @@ public class PublicTests {
 	// Test 4: test isValidTx() with transactions whose total output value exceeds total input value
 	@Test
 	public void testIsValidTotalOutputExceedsTotalInput() throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing				
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)
@@ -115,11 +118,11 @@ public class PublicTests {
 		assertTestSetIsValid(utxoTestSet);
 	}
 
-	
+
 	// Test 5: test isValidTx() with transactions that claim outputs not in the current utxoPool
 	@Test
 	public void testIsValidTransactionsClamingOuputsNotInThePool() throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing				
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)
@@ -157,7 +160,7 @@ public class PublicTests {
     // Test 7: test isValidTx() with transactions that contain a negative output value
 	@Test
 	public void testIsValidTransactionsWithNegativeOutput() throws NoSuchAlgorithmException, InvalidKeyException, SignatureException {
-		// Create a new set of transactions for testing				
+		// Create a new set of transactions for testing
 		final UtxoTestSet utxoTestSet = UtxoTestSet.builder()
 				.setPeopleSize(10)
 				.setUtxoTxNumber(10)

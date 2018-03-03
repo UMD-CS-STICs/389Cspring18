@@ -491,10 +491,23 @@ public class UtxoTestSet {
 
 			if (corrupted){
 				invalid.add(tx);
-			} else{
+			} else {
 				valid.add(tx);
 			}
 
+		}
+
+		HashSet<UTXO> globalUTXOs = new HashSet<>();
+		for (Transaction transaction : valid) {
+			for (Transaction.Input input : transaction.getInputs()) {
+				UTXO utxo = new UTXO(input.prevTxHash, input.outputIndex);
+				if (globalUTXOs.contains(utxo)) {
+					conflicted.add(transaction);
+					break;
+				} else {
+					globalUTXOs.add(utxo);
+				}
+			}
 		}
 				
 		return ValidationLists.builder(Transaction.class)

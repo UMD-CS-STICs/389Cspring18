@@ -37,6 +37,10 @@ public class ValidationLists<E> {
 		list.addAll(invalid);
 		return list;
 	}
+
+	public int nonConflictingTransactions() {
+		return valid.size() - conflicted.size();
+	}
 	
 	public static <T>  Builder<T> builder(Class<T> c){
 		return new Builder<T>();

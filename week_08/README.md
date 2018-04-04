@@ -1,0 +1,3 @@
+# Cryptocurrency Markets and ICOs
+
+This past week we went over Cryptocurrency Markets and ICOs. As per usual, The slides can be found [here](https://docs.google.com/presentation/d/1DUq-4eJlDHhNrHtO-r_LYIHby6Dz6onX-QWSppziy4Q/edit?usp=sharing), as well as in this directory. We highly recommend reviewing the slides again at some point this week, because we introduced Ethereum, which we will be jumping into in great detail in the coming weeks. Project 3 will be coming out on Friday, in which you will be implementing real smart contracts that can be deployed on Ethereum's network! Looking forward to seeing you all Friday.

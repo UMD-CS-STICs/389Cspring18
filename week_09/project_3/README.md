@@ -94,7 +94,7 @@ If you have not already cloned the class repository, run `git clone https://gith
 
 ### IDE Instructions
 
-While you are allowed to use whatever text editor you'd like to complete this project (Sublime, Atom, Emacs, etc.), we **strongly** recommend you use Ethereum's Remix IDE, which can be found at [remix.ethereum.org](remix.ethereum.org). This IDE includes a compiler and debugger, which will be super useful for writing your contract correctly. Just copy the code from the solidity file we provided and paste it in the editor and go. You can create a new file, or just replace the code in the default file (ballot.sol). It is not a requirement of solidity to name your contract the same thing as the file, although in the real world it is good practice. 
+While you are allowed to use whatever text editor you'd like to complete this project (Sublime, Atom, Emacs, etc.), we **strongly** recommend you use Ethereum's Remix IDE, which can be found at [remix.ethereum.org](http://remix.ethereum.org/). This IDE includes a compiler and debugger, which will be super useful for writing your contract correctly. Just copy the code from the solidity file we provided and paste it in the editor and go. You can create a new file, or just replace the code in the default file (ballot.sol). It is not a requirement of solidity to name your contract the same thing as the file, although in the real world it is good practice. 
 
 **Please remember to copy your code regularly into a local file on your computer. If your browser crashes or you close your tab on accident and your cookie is not saved for some reason, all of your code will be gone when you revisit remix.etherem.org.**
 
